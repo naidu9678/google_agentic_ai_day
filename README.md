@@ -1,9 +1,32 @@
+Google Agentic AI Day Hackathon
+
 AI-Powered Financial Advisor Chatbot
 This repository contains the source code for an advanced Financial Advisor chatbot built using Google's Agent Development Kit (ADK) and deployed on Google Cloud Run. The application leverages Google's Generative AI models through Vertex AI to provide intelligent financial advice, answer user queries, and perform related tasks.
 
-The frontend is a simple, clean web interface built with React and hosted on Firebase Hosting, providing a seamless user experience.
 
-![Project Architecture](https://storage.googleapis.com/gweb-cloudblog-publish/images/AD✨ Features
+Steps to use working AI-Powered Financial Advisor Chatbot Prototype.
+
+Please follow the below steps:
+
+1. Access url: https://finadvisorai-chat.web.app/
+2.  Start with Hi/Hello. and ask any finacial query like get my credit score , get my networ, get my epf details, get mutual funds etc.
+
+<img width="2500" height="1454" alt="image" src="https://github.com/user-attachments/assets/cb01379f-5099-4f6e-9841-0a8a5a5067ce" />
+
+3. It will ask you for the sign into this url : https://fi-mcp-prod-server-93313385804.us-central1.run.app/mockWebPage?sessionId=mcp-session-594e48ea-fea1-40ef-8c52-7552dd9272af.
+4. Please enter dymmy mobile number and dummy OTP as Login : 2222222222
+                                                       OTP : 12345
+<img width="2390" height="1461" alt="image" src="https://github.com/user-attachments/assets/d76cf4b8-0486-49f9-a725-1f48a2fbe4d8" />
+
+5. Continue with Chatbot and ask queries about your personal financial data.
+
+As Chatbot is using financial data from Fi Money MCP Server. This login is required.
+
+Note: Some dummpy data is mocked in Fi Money MCP dev Server.
+
+
+The frontend is a simple, clean web interface built with React and hosted on Firebase Hosting, providing a seamless user experience.
+D✨ Features
 
 Conversational AI: Utilizes Google's powerful language models (e.g., Gemini) for natural and intelligent conversations.
 
