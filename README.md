@@ -23,6 +23,7 @@ As Chatbot is using financial data from Fi Money MCP Server. This login is requi
 
 Note: Some dummpy data is mocked in Fi Money MCP dev Server.
 
+**Recorded Demo :** https://drive.google.com/drive/folders/1PC9yjoU4Ol6ETBJItrHDeLLC_7bIWHnT?usp=sharing
 
 The frontend is a simple, clean web interface built with React and hosted on Firebase Hosting, providing a seamless user experience.
 D✨ Features
