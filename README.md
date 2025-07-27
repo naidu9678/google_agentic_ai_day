@@ -371,27 +371,4 @@ npm run build
 firebase deploy --only hosting
 Once complete, Firebase will provide the Hosting URL. This is the public link to your production-ready chatbot!
 
-Project Structure
-text
-.
-├── backend/
-│   ├── .env.example        # Example environment variables
-│   ├── main.py             # FastAPI application entrypoint
-│   ├── agent.py            # Core agent logic and tool definitions
-│   ├── tools/              # Custom tools for the agent
-│   │   ├── __init__.py
-│   │   └── financial_tools.py
-│   ├── Procfile              # Command to start the Gunicorn server
-│   └── requirements.txt    # Python dependencies
-│
-├── frontend/
-│   ├── public/
-│   │   └── index.html
-│   ├── src/
-│   │   ├── components/       # React components
-│   │   └── App.js            # Main React application
-│   ├── package.json
-│   └── firebase.json         # Firebase hosting configuration
-│
-└── README.md
 
