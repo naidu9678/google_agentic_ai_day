@@ -26,7 +26,7 @@ Note: Some dummpy data is mocked in Fi Money MCP dev Server.
 **Recorded Demo :** https://drive.google.com/drive/folders/1PC9yjoU4Ol6ETBJItrHDeLLC_7bIWHnT?usp=sharing
 
 The frontend is a simple, clean web interface built with React and hosted on Firebase Hosting, providing a seamless user experience.
-D✨ Features
+D✨ **Features**
 
 Conversational AI: Utilizes Google's powerful language models (e.g., Gemini) for natural and intelligent conversations.
 
@@ -38,7 +38,7 @@ Web-Based UI: A clean, responsive user interface built with React and hosted on 
 
 Secure and Managed: Leverages Google Cloud's robust infrastructure for security, logging, and monitoring.
 
-🛠️ Tech Stack
+🛠️ **Tech Stack**
 Backend:
 
 Framework: FastAPI
@@ -69,7 +69,7 @@ Hosting: Google Cloud Run
 
 CI/CD: Google Cloud Build
 
-🚀 Getting Started
+🚀 **Getting Started**
 Follow these instructions to get a copy of the project up and running on your local machine for development and testing purposes.
 
 Prerequisites
@@ -217,7 +217,7 @@ AI-Powered Financial Advisor
 
 An intelligent, conversational financial advisor powered by Google's Agent Development Kit (ADK) and Gemini models. This application provides a seamless, serverless architecture using Google Cloud Run for the backend and a responsive React frontend hosted on Firebase.
 
-🏛️ Architecture
+🏛️ **Architecture**
 
 This project is built on a modern, serverless architecture designed for scalability, security, and low maintenance.
 
@@ -232,7 +232,7 @@ Build & Deployment: Source code is automatically built into a container image by
 <p align="center"><img width="2373" height="1321" alt="image" src="https://github.com/user-attachments/assets/746b2747-b4ec-4955-86c2-d6c42da54d68" />
 </p>
 
-✨ Key Features
+✨ **Key Features**
 Natural Language Interaction: Ask complex financial questions in plain English.
 
 Extensible Tool Use: The agent is built to use custom tools (e.g., for real-time stock data, calculations, or accessing financial APIs).
