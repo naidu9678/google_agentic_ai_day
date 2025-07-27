@@ -1,3 +1,5 @@
+<img width="2154" height="607" alt="image" src="https://github.com/user-attachments/assets/5040ceab-8f5e-4f26-9def-56f9415a023d" />
+
 <h1> Google Agentic AI Day Hackathon</h1>
 
 <h5> AI-Powered Financial Advisor Chatbot </h5>
