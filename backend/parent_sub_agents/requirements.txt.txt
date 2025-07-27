@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+gunicorn
+pydantic==2.11.7
+google-adk==1.4.2
+google-generativeai
+google-cloud-logging
+requests
+python-dotenv
