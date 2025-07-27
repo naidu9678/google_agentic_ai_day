@@ -94,8 +94,8 @@ Firebase CLI installed and authenticated.
 Local Development Setup
 1. Clone the Repository
 bash
-git clone https://github.com/your-username/financial-advisor-ai.git
-cd financial-advisor-ai
+git clone https://github.com/naidu9678/google_agentic_ai_day
+cd google_agentic_ai_day
 2. Set Up the Backend
 The backend is a FastAPI application that serves the agent.
 
@@ -218,6 +218,7 @@ AI-Powered Financial Advisor
 An intelligent, conversational financial advisor powered by Google's Agent Development Kit (ADK) and Gemini models. This application provides a seamless, serverless architecture using Google Cloud Run for the backend and a responsive React frontend hosted on Firebase.
 
 🏛️ Architecture
+
 This project is built on a modern, serverless architecture designed for scalability, security, and low maintenance.
 
 Frontend: A React-based single-page application (SPA) hosted on Firebase Hosting. It communicates with the backend via HTTP requests.
@@ -228,9 +229,9 @@ Agent Core: The agent logic is built using the Google Agent Development Kit (ADK
 
 Build & Deployment: Source code is automatically built into a container image by Google Cloud Build and deployed to Cloud Run.
 
-<p align="center">-- Your Architecture Diagram --</p>
+<p align="center"><img width="2373" height="1321" alt="image" src="https://github.com/user-attachments/assets/746b2747-b4ec-4955-86c2-d6c42da54d68" />
+</p>
 
-<p align="center"> <img src="https://via.placeholder.com/800x450.png?text=Your+Architecture+Diagram+Here" alt="Architecture Diagram"> </p>
 ✨ Key Features
 Natural Language Interaction: Ask complex financial questions in plain English.
 
