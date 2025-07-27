@@ -278,7 +278,7 @@ gcloud config set project YOUR_PROJECT_ID
 💻 Local Development
 1. Clone the Repository
 bash
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/naidu9678/google_agentic_ai_day.git
 cd your-repo-name
 2. Configure Environment
 Create a .env file inside the backend/ directory with your project details:
